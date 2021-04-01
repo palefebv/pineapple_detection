@@ -1,0 +1,26 @@
+<annotation>
+	<folder>images</folder>
+	<filename>pineapple_aug362.jpg</filename>
+	<path>/Users/paulefeb/Projects/object_detection_modeling/dataset/images/pineapple_aug362.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>162</width>
+		<height>121</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>Pineapple</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>114</xmin>
+			<ymin>17</ymin>
+			<xmax>151</xmax>
+			<ymax>101</ymax>
+		</bndbox>
+	</object>
+</annotation>
